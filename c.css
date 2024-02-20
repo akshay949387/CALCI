@@ -1,0 +1,55 @@
+button{
+    font-size: x-large;
+    text-size-adjust: bold;
+    width: 100px;
+    height: 45px;
+    margin: 1px;
+ color: rgb(11, 11, 11);
+background-color: transparent ;
+background-image: url(https://tse1.mm.bing.net/th?id=OIP.OEcOYUqHeVHlTRfw2vYfuwHaEo&pid=Api&rs=1&c=1&qlt=95&w=159&h=99);
+}
+.op1{
+    margin-left: 5px;
+    height: 138px;
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: cover;
+}
+
+
+.num1{
+    padding: auto;
+    /* height: 2000PX; */
+}
+.num2{
+    border: 5px none black;
+    border-radius: 5%;
+    width: 500px;
+    height: 400px;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-right: 30%;
+    padding: 1%;
+    background-repeat: no-repeat;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.khVQXWgux9fl2NnzYcnD4wHaEo&pid=Api&P=0&h=180://tse3.mm.bing.net/th?id=OIP.Yj_s2Ki-rifdJ_n9iFAkgAHaHa&pid=Api&P=0&h=180);
+    background-size: cover;
+
+    
+}
+
+
+.numb{
+    margin: 10px;
+    margin-bottom: 0px;
+   
+}
+body{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.rfctXFWUNfjQB2PnF_SyGwHaE8&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+    
+}
+.heading{
+    border: 1px solid black;
+}
